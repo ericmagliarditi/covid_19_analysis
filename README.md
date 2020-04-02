@@ -10,3 +10,8 @@ Contains a Notebook and Utility Script for a Time Series Model I built to predic
     ├── weights                 # Contains pre-trained weights that can be used   
     ├── README.me                
     └── ...
+    
+    
+# Example Time Series Prediction
+
+![test](https://github.com/ericmagliarditi/covid_19_analysis/blob/master/covid_time_series.png)
