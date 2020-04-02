@@ -14,4 +14,4 @@ Contains a Notebook and Utility Script for a Time Series Model I built to predic
     
 # Example Time Series Prediction
 
-![test](https://github.com/ericmagliarditi/covid_19_analysis/blob/master/covid_time_series.png)
+![test](https://github.com/ericmagliarditi/covid_19_analysis/blob/master/new_york_time_series.png)
